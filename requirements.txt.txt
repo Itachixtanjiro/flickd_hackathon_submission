@@ -1,0 +1,12 @@
+torch==2.5.1
+ultralytics==8.0.120
+open_clip_torch
+faiss-cpu
+pandas
+opencv-python
+transformers
+fastapi
+uvicorn
+python-multipart
+matplotlib
+tqdm
