@@ -3,8 +3,10 @@
 ## 👗 AI-Powered Product & Vibe Detection for Fashion Reels
 
 
+
 ## 📂 **Project Structure**
 
+```
 flickd_hackathon_submission/
 ├── app/
 │   ├── api.py              # FastAPI app for serving predictions
@@ -28,6 +30,7 @@ flickd_hackathon_submission/
 └── .gitignore
 ```
 
+---
 
 ## 🚀 **Quickstart**
 
@@ -167,6 +170,3 @@ uvicorn app.api:app --host 0.0.0.0 --port 7860
 Open an issue or email \[priyanshubadhan2228@gmail.com].
 
 ---
-
-**Good luck, and thank you for reviewing our Flickd hackathon solution!**
-
